@@ -1,9 +1,12 @@
 import ProductFilter from "@/components/product/ProductFilter";
 import { fetchApi } from "@/lib/api";
 import { Product } from "@/types/product";
-import { SearchParamProps } from "@/types/searchParams";
 
-export default async function Page({ searchParams }: SearchParamProps) {
+export default async function Page({
+  searchParams,
+}: {
+  searchParams: Promise<{ [key: string]: string | string[] | undefined }>
+}) {
   const resolvedSearchParams = await searchParams;
   const name: string = (resolvedSearchParams?.name as string) ?? '';
   const price: string = (resolvedSearchParams?.price as string) ?? '';
