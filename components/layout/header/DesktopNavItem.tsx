@@ -1,3 +1,5 @@
+'use client'
+
 import { NavigationMenuLink } from '@/components/ui/navigation-menu';
 import Link from 'next/link';
 import React from 'react'

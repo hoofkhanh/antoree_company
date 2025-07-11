@@ -1,3 +1,5 @@
+'use client'
+
 import { Button } from '@/components/ui/button';
 import { SheetDescription } from '@/components/ui/sheet';
 import Link from 'next/link';
