@@ -1,5 +1,9 @@
 # 🚀 Antoree Company - Sàn giáo dục thương mại điện tử tích hợp AI
 
+## 📹 Demo sản phẩm
+
+[![Xem video demo](https://img.youtube.com/vi/K_z2nUwvTB0/maxresdefault.jpg)](https://youtu.be/K_z2nUwvTB0 "Xem video demo trên YouTube")
+
 ## ⚙️ Hướng dẫn cài đặt & chạy dự án
 
 ### 1. 🖥️ Yêu cầu môi trường
@@ -41,6 +45,10 @@ npm start
 - 🎨 **Tailwind CSS** (UI hiện đại, responsive)
 - 🧩 **Shadcn UI** (component UI)
 - 🔡 **TypeScript**
+
+## 📹 Demo sản phẩm
+
+[![Xem video demo](https://img.youtube.com/vi/K_z2nUwvTB0/maxresdefault.jpg)](https://youtu.be/K_z2nUwvTB0 "Xem video demo trên YouTube")
 
 ---
 
