@@ -4,6 +4,8 @@
 
 [![Xem video demo](https://img.youtube.com/vi/K_z2nUwvTB0/maxresdefault.jpg)](https://youtu.be/K_z2nUwvTB0 "Xem video demo trên YouTube")
 
+---
+
 ## ⚙️ Hướng dẫn cài đặt & chạy dự án
 
 ### 1. 🖥️ Yêu cầu môi trường
