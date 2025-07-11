@@ -2,6 +2,8 @@
 
 ## 📹 Demo sản phẩm
 
+🌐 **Xem bản demo online:** [https://antoree-company.vercel.app/](https://antoree-company.vercel.app/)
+
 [![Xem video demo](https://img.youtube.com/vi/K_z2nUwvTB0/maxresdefault.jpg)](https://youtu.be/K_z2nUwvTB0 "Xem video demo trên YouTube")
 
 ---
@@ -65,13 +67,4 @@ npm start
 
 ## 📢 Ghi chú
 - 🗂️ API sản phẩm: `/api/products` (mock data)
-- 🧠 API gợi ý: `/api/suggestions` (mock data, có thể filter theo userId, name, price)
-- 💾 Dữ liệu yêu thích/lịch sử: lưu ở localStorage, đồng bộ Redux
-
----
-
-## 📬 Liên hệ
-- Email: hotuankhanh20112016@gmail.com
-- Github: https://github.com/hoofkhanh/antoree_company
-- Linkedin: https://www.linkedin.com/in/khanh-h%E1%BB%93-b006b3312
-- Portfolio: https://hoofkhanh.netlify.app/
+- 🧠 API gợi ý: `/api/suggestions`
