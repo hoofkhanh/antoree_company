@@ -1,6 +1,6 @@
 import type { Product } from "@/types/product";
 
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || 'https://antoree-company.vercel.app';
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL;
 
 export async function fetchApi(
   apiName: string, name: string = '', price: string = ''
