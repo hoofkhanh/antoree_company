@@ -6,7 +6,7 @@ export async function fetchApi(
   const params = new URLSearchParams();
   if (name) params.set('name', name);
   if (price) params.set('price', price);
-  const url = `http://localhost:3000/api/${apiName}?${params.toString()}`;
+  const url = `/api/${apiName}?${params.toString()}`;
   const res = await fetch(url, { cache: 'no-store' });
   if (!res.ok) throw new Error("Lỗi gọi api: " + apiName);
   return res.json();
