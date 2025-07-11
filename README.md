@@ -48,10 +48,6 @@ npm start
 - 🧩 **Shadcn UI** (component UI)
 - 🔡 **TypeScript**
 
-## 📹 Demo sản phẩm
-
-[![Xem video demo](https://img.youtube.com/vi/K_z2nUwvTB0/maxresdefault.jpg)](https://youtu.be/K_z2nUwvTB0 "Xem video demo trên YouTube")
-
 ---
 
 ## 🌟 Tính năng nổi bật
